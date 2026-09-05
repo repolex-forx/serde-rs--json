@@ -101,10 +101,10 @@
         "blob/2e900f1a1b245a183d70e13a1a6bfd1f9cd4b49b.nq.gz"
       ],
       "ast": [
-        "aggregate/ast/4f6dbfac79647d032b0997b5ab73022340c6dab7"
+        "aggregate/ast/4f6dbfac79647d032b0997b5ab73022340c6dab7/chunk-001.nq.gz"
       ],
       "lsp": "aggregate/lsp/4f6dbfac79647d032b0997b5ab73022340c6dab7.nq.gz",
-      "repolex": "aggregate/repolex/4f6dbfac79647d032b0997b5ab73022340c6dab7",
+      "repolex": "aggregate/repolex/4f6dbfac79647d032b0997b5ab73022340c6dab7/chunk-001.nq.gz",
       "dep": "dep/4f6dbfac79647d032b0997b5ab73022340c6dab7.nq.gz"
     }
   ],
